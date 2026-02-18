@@ -19,7 +19,7 @@
 - 키워드별 차별화 전략 필요
 
 ## 🛠 Tech Stack
-Python / Pandas / Matplotlib
+Python / Pandas / Matplotlib / API
 
 ---
 
