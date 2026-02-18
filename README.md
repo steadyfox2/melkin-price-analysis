@@ -1,5 +1,7 @@
 # 📊 Melkin Market Positioning Analysis
 
+![Keyword Median Price](images/05_price_median_comparison.png)
+
 네이버 쇼핑 데이터(OPEN API)를 활용하여  
 멜킨 브랜드의 가격 포지셔닝을 시장 기준으로 분석한 프로젝트입니다.
 
